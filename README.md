@@ -63,6 +63,3 @@ git clone <your-repo-link>
 cd db_scripts
 chmod +x *.sh
 ./create_db.sh
-ذذ
-ذ
-
